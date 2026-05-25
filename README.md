@@ -42,14 +42,14 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
 - Healthcare cybersecurity
 - Privacy-preserving and safety-aware sensing systems
 
-## GitHub activity
+## My GitHub contributions summary
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=default&hide_border=true" alt="Shahram's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Shahram's GitHub contribution streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahram-h-hesari&hide_border=true&show_icons=true&bg_color=ffffff&title_color=154734&icon_color=154734&text_color=333333&text_bold=false" alt="Shahram's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahram-h-hesari&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e&cache_seconds=86400" alt="Shahram's GitHub stats" />
 </p>
 
 ## Contact and links
