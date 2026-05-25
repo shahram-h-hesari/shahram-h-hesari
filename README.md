@@ -49,10 +49,6 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahram-h-hesari&theme=github_dark" alt="Shahram's GitHub profile summary" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahram-h-hesari&theme=github_dark" alt="Shahram's GitHub stats summary" />
 </p>
 
