@@ -45,7 +45,7 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
 ## GitHub activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahram-h-hesari&show_icons=true&theme=default&hide_border=true" alt="Shahram's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=default&hide_border=true" alt="Shahram's GitHub contribution streak" />
 </p>
 
 ## Contact and links
