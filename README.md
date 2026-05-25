@@ -44,12 +44,6 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
 
 ## My GitHub contributions summary
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Shahram's GitHub Streak" />
-</a>
-
-## My GitHub contributions summary
-
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Shahram's GitHub contribution streak" />
 </p>
