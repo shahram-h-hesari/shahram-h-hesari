@@ -48,7 +48,15 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
   <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Shahram's GitHub Streak" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahram-h-hesari&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Shahram's GitHub stats" />
+## My GitHub contributions summary
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=shahram-h-hesari&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="Shahram's GitHub contribution streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahram-h-hesari&theme=github_dark" alt="Shahram's GitHub profile summary" />
+</p>
 
 ## Contact and links
 
