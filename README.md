@@ -52,5 +52,3 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
 
 - GitHub: https://github.com/shahram-h-hesari
 - Featured project: https://github.com/shahram-h-hesari/secure-wifi-csi-healthcare-sensing
-- LinkedIn: add link
-- Website: add link
