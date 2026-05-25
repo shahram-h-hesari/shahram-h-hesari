@@ -44,6 +44,11 @@ Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · S
 - Healthcare cybersecurity
 - Privacy-preserving and safety-aware sensing systems
 
+## GitHub activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahram-h-hesari&show_icons=true&theme=default&hide_border=true" alt="Shahram's GitHub stats" />
+</p>
 
 ## Contact and links
 
