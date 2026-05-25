@@ -32,7 +32,18 @@ The project demonstrates a reproducible Python/Jupyter/Streamlit workflow for:
 
 ## Tools and technologies
 
-Python · Jupyter · NumPy · pandas · matplotlib · SciPy · scikit-learn · Streamlit · Git · Signal Processing · Wireless Security · Healthcare Cybersecurity
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Signal Processing](https://img.shields.io/badge/Signal%20Processing-5A5A5A?style=for-the-badge)
+![Wireless Security](https://img.shields.io/badge/Wireless%20Security-0A66C2?style=for-the-badge)
+![Healthcare Cybersecurity](https://img.shields.io/badge/Healthcare%20Cybersecurity-B31B1B?style=for-the-badge)
 
 ## Research interests
 
